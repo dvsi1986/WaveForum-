@@ -2,7 +2,7 @@ import forum.DuplicateNickname;
 import forum.*;
 
 public class Example {
-
+// first change : 
     public static void main(String[] args) throws DuplicateNickname {
         // Create a web forum
         Forum forum = new Forum("http://niranjanandkhatri.blogspot.it/Java/Forum/");
